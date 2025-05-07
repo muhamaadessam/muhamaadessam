@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hello! I’m Asmaa, a dedicated Android Developer with a knack for building intuitive and efficient mobile applications. With expertise in Java and Kotlin, I bring innovative ideas to life while ensuring high-quality standards in development.
+Hello! I’m Muhammad Essam, a dedicated Flutter Developer with a knack for building intuitive and efficient mobile applications. With expertise in Java and Kotlin, I bring innovative ideas to life while ensuring high-quality standards in development.
 
 My experience includes:
 - End-to-end Android app development, from concept to release.  
@@ -61,4 +61,4 @@ Feel free to connect with me:
   </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asmaaatya&show_icons=true&locale=en&layout=compact" alt="asmaaatya" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhamaadessam&show_icons=true&locale=en&layout=compact" alt="muhamaadessam" /></p>
