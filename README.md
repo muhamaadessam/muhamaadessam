@@ -36,7 +36,6 @@ Feel free to connect with me:
 
 ## Languages and Tools
 
-<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="firebase" width="40" height="40"/> 
