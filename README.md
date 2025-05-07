@@ -41,8 +41,8 @@ Feel free to connect with me:
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   </a> 
-  <a href="[https://firebase.google.com](https://flutter.dev/)/" target="_blank" rel="noreferrer"> 
-    <img src="[https://www.vectorlogo.zone/logos/firebase/firebase-ar21~bgwhite.svg](https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg)" alt="firebase" width="40" height="40"/> 
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="firebase" width="40" height="40"/> 
   </a>
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
