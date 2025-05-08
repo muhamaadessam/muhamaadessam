@@ -22,9 +22,16 @@ I’m committed to continuous learning, keeping up with the latest in mobile tec
 
 Here are some of the skills and technologies I work with:
 
-- **Programming Languages:** Java, Kotlin, Python ,Cpp
-- **Frameworks & Libraries:** Android SDK, Firebase, Retrofit, Dagger/Hilt, Room, Glide, Picasso, Jetpack Components (LiveData, ViewModel, Navigation, Data Binding), OkHttp, Gson, RxJava, Kotlin Coroutines, Lottie, and Material Components.
-- **Tools & Platforms:**  Git, Bitbucket , Android Studio, IntelliJ IDEA, JIRA, Postman.
+Programming Languages: Dart, Java, Kotlin, C++
+- **Mobile Development:** Flutter, Android SDK
+- **State Management:** Bloc, Provider
+- **Networking & APIs:** Dio, OkHttp
+- **Backend & Realtime:** Firebase (Auth, Firestore, Realtime Database, Cloud Messaging)
+- **Dependency Injection:** GetIt
+- **Database:** Sqflite, Hive
+- **Image & Animation:** Lottie, cached_network_image
+- **UI/UX:** Material Components, Custom Widgets, Responsive Design (flutter_screenutil)
+- **Tools & Platforms:** Git, Android Studio, IntelliJ IDEA, JIRA, Postman
 
 ## Get in Touch
 
