@@ -15,7 +15,7 @@ I’m driven by a passion for learning, staying ahead in the tech world, and con
 
 ## My Github Contributions
 
-![snake gif](https://github.com/muhamaadessam/muhamaadessam/blob/output/github-snake-light.svg)
+![snake gif](https://github.com/muhamaadessam/muhamaadessam/blob/output/github-user-contribution.svg)
 
 
 ## Skills
