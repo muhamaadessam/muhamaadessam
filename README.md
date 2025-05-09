@@ -16,6 +16,7 @@ I’m committed to continuous learning, keeping up with the latest in mobile tec
 ## My Github Contributions
 
 <div align="center">
+  
   ![snake gif](https://github.com/muhamaadessam/muhamaadessam/blob/output/github-snake-dark.svg)
 </div>
 
