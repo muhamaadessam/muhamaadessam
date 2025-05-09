@@ -17,7 +17,7 @@ I’m committed to continuous learning, keeping up with the latest in mobile tec
 
 <div align="center">
     
-  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/muhammadessam/muhamaadessam/blob/output/github-snake-dark.svg)
 </div>
 
 ## Skills
