@@ -41,6 +41,7 @@ Feel free to connect with me:
 
 - 📧 Email: muhammad159e@gmail.com
 - 💼 LinkedIn: [https://www.linkedin.com/in/muhammadessam159/](https://www.linkedin.com/in/muhammadessam159/)
+- 💼 LinkedIn: [[https://www.wa.me/201555502981](https://www.linkedin.com/in/muhammadessam159/)](https://www.wa.me/201555502981)
 
 
 ## Languages and Tools
