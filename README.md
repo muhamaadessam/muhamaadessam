@@ -40,8 +40,8 @@ Programming Languages: Dart, Java, Kotlin, C++
 Feel free to connect with me:
 
 - 📧 Email: muhammad159e@gmail.com
-- 💼 LinkedIn: [https://www.linkedin.com/in/muhammadessam159/](https://www.linkedin.com/in/muhammadessam159/)
-- 💼 WhatsApp: [chat With Me](https://api.whatsapp.com/send/?phone=201555502981&text&type=phone_number&app_absent=0)
+- 💼 LinkedIn: [Linkedin](https://www.linkedin.com/in/muhammadessam159/)
+- <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg](https://img.icons8.com/?size=100&id=16713&format=png&color=000000)" alt="android" width="40" height="40"/> WhatsApp: [Chat With Me](https://api.whatsapp.com/send/?phone=201555502981&text&type=phone_number&app_absent=0)
 
 
 ## Languages and Tools
