@@ -5,13 +5,28 @@
 
 Hello! I’m Muhammad Essam, a passionate Flutter Developer with a strong foundation in building cross-platform mobile applications. I specialize in crafting clean, responsive, and high-performance user interfaces using Flutter, while also leveraging my background in Java and Kotlin for Android development.
 
-My experience includes:
+**My experience includes:**
 - Developing and maintaining full-featured Flutter apps from scratch to release.
 - Implementing efficient UI/UX with smooth animations and responsive layouts.
 - Collaborating with cross-functional teams to deliver scalable, maintainable solutions.
 - Integrating Firebase services, REST APIs, and third-party packages. 
 
 I’m committed to continuous learning, keeping up with the latest in mobile technologies, and contributing to communities that support innovation and knowledge sharing.
+
+## Skills
+
+Here are some of the skills and technologies I work with:
+
+- **Programming Languages:** Dart, Java, Kotlin, C++
+- **Mobile Development:** Flutter, Android SDK
+- **State Management:** Bloc, Provider
+- **Networking & APIs:** Dio, OkHttp
+- **Backend & Realtime:** Firebase (Auth, Firestore, Realtime Database, Cloud Messaging)
+- **Dependency Injection:** GetIt
+- **Database:** Sqflite, Hive
+- **Image & Animation:** Lottie, cached_network_image
+- **UI/UX:** Material Components, Custom Widgets, Responsive Design (flutter_screenutil)
+- **Tools & Platforms:** Git, Android Studio, IntelliJ IDEA, JIRA, Postman
 
 ## My Github Contributions
 
@@ -26,21 +41,6 @@ I’m committed to continuous learning, keeping up with the latest in mobile tec
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhamaadessam&theme=aura&hide_border=true" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamaadessam&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 </div>
-
-## Skills
-
-Here are some of the skills and technologies I work with:
-
-Programming Languages: Dart, Java, Kotlin, C++
-- **Mobile Development:** Flutter, Android SDK
-- **State Management:** Bloc, Provider
-- **Networking & APIs:** Dio, OkHttp
-- **Backend & Realtime:** Firebase (Auth, Firestore, Realtime Database, Cloud Messaging)
-- **Dependency Injection:** GetIt
-- **Database:** Sqflite, Hive
-- **Image & Animation:** Lottie, cached_network_image
-- **UI/UX:** Material Components, Custom Widgets, Responsive Design (flutter_screenutil)
-- **Tools & Platforms:** Git, Android Studio, IntelliJ IDEA, JIRA, Postman
 
 ## Get in Touch
 
