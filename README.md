@@ -1,6 +1,14 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5BC7F8&width=435&lines=Hey%2C+I'm+Muhammad+Essam+Sayed;Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
 
+
+<!-- Stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=technologyhell&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=technologyhell&theme=aura&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=technologyhell&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+</div>
+
 ## About Me
 
 Hello! I’m Muhammad Essam, a passionate Flutter Developer with a strong foundation in building cross-platform mobile applications. I specialize in crafting clean, responsive, and high-performance user interfaces using Flutter, while also leveraging my background in Java and Kotlin for Android development.
