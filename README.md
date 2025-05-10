@@ -42,14 +42,6 @@ Here are some of the skills and technologies I work with:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamaadessam&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 </div>
 
-## Get in Touch
-
-Feel free to connect with me:
-
-- 📧 Email: muhammad159e@gmail.com
-- 💼 LinkedIn: [Linkedin](https://www.linkedin.com/in/muhammadessam159/)
-- WhatsApp: [Chat With Me](https://api.whatsapp.com/send/?phone=201555502981&text&type=phone_number&app_absent=0)
-
 
 ## Languages and Tools
 
@@ -73,3 +65,11 @@ Feel free to connect with me:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
 </p>
+
+## Get in Touch
+
+**Feel free to connect with me:**
+- 📧 Email: muhammad159e@gmail.com
+- 💼 LinkedIn: [Linkedin](https://www.linkedin.com/in/muhammadessam159/)
+- WhatsApp: [Chat With Me](https://api.whatsapp.com/send/?phone=201555502981&text&type=phone_number&app_absent=0)
+
