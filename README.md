@@ -37,9 +37,9 @@ Here are some of the skills and technologies I work with:
 
 <!-- Stats -->
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhamaadessam&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhamaadessam&theme=aura&hide_border=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamaadessam&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+  <img src="https://github-readme-stats.vercel.app/api?username=muhamaadessam&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="90%" /> </br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhamaadessam&theme=aura&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamaadessam&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="45%" /> </br>
 </div>
 
 
