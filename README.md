@@ -31,28 +31,46 @@ Here are some of the skills and technologies I work with:
 ## 📱  Projects I've Worked On
 
 - **CEO**  
-  The application takes care of employee well-being, recording attendance, participation, achieving the company's vision, reviewing the organizational structure, and everything related to managing departments, tasks, and human resources.
-  
+CEO is your all-in-one app for executive control. Manage reports, workflows, and internal communication with ease. It also supports employee well-being, tracks attendance, monitors participation, and aligns teams with your company’s vision. View organizational structures, manage tasks, departments, and HR — all in one place.
+
+Key Features:
+- Executive-level oversight and performance tracking
+- Employee well-being monitoring and attendance recording
+- Task and department management
+- Organizational structure and HR tools
+
   [🔗 Play Store Link](https://play.google.com/store/apps/details?id=sa.amazing.amazingceo) </br>
   [🔗 App Store Link](https://apps.apple.com/eg/app/ceo-%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3/id6475808778)
 
-- **Sak**  
-  An application of the Ministry of Justice of Qatar's official application for the Real Estate Registration
-  and Authentication Department's electronic services
+- **CEO Buffet**  
+Buffet Services is a dedicated app built to receive and manage buffet orders directly from our main platform. It integrates seamlessly with CEO – Smart Executive Management to enhance overall business operations, making the order handling process faster and more efficient for catering teams and buffet service providers.
+
+Key Features:
+- Receive buffet orders in real-time
+- Organized and efficient order tracking
+- Integrates with CEO for streamlined business management
+- Lightweight and easy to use
   
-  [🔗 Play Store Link](https://play.google.com/store/apps/details?id=com.informatique_.SAK)
+  [🔗 Play Store Link](https://play.google.com/store/apps/details?id=sa.amazing.buffetservice)</br>
+  [🔗 App Store Link](https://apps.apple.com/us/app/buffet-services/id6479214057)
 
 
- - **TawsiekMisr(ارغب في عمل توكيل)**  
-  An application of the Egyptian Ministry of Justice for the Real Estate Registration and Documentation
-  Authority.
+- **Mudawi**  
+Mudawi is a simple yet powerful medical reminder app designed to help you stay on top of your health. Easily schedule your doctor appointments and medication times, and log your blood pressure readings for future reference. With a clean interface and complete privacy, Mudawi is your personal assistant for better health.
+  
+  [🔗 Play Store Link](https://play.google.com/store/apps/details?id=com.mudawiapp.mudawi)</br>
+  [🔗 App Store Link](https://apps.apple.com/sa/app/mudawi/id6478219789)
 
-   [🔗 Play Store Link](https://play.google.com/store/apps/details?id=com.informatique.tawsekmisr)
+- **Sportsmanship**  
+Sportsmanship is a sports prediction app focused on the Saudi football league, offering fans the chance to predict the outcomes of major matches involving top clubs like Al-Ittihad, Al-Nasr, Al-Hilal, Al-Shabab, and Al-Ahly. Earn points for accurate predictions and compete with fellow fans.
 
-- **Mohtdon**  
-  Mohtdon is islamic app designed to cater to the diverse needs of the Muslim community.
+Key Features:
+- Focus on major Saudi league matches
+- Participate in rounds by submitting predictions before each match
+  
+  [🔗 Play Store Link](https://play.google.com/store/apps/details?id=com.sportsmanshipapp.sportsmanship)</br>
+  [🔗 App Store Link](https://apps.apple.com/sa/app/%D8%B1%D9%88%D8%AD-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9/id6474154577)
 
-   [🔗 Play Store Link](https://play.google.com/store/apps/details?id=com.mohtdon)
 
 ## My Github Contributions
 
