@@ -49,7 +49,10 @@ Here are some of the skills and technologies I work with:
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="firebase" width="40" height="40"/> 
   </a>
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+  <a href="https://dart.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="java" width="40" height="40"/> 
+  </a>
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   </a>
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
@@ -58,9 +61,7 @@ Here are some of the skills and technologies I work with:
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
-  <a href="https://dart.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="java" width="40" height="40"/> 
-  </a>
+
 <!--  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> -->
