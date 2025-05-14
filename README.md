@@ -49,10 +49,10 @@ CEO Buffet is a dedicated app built to receive and manage buffet orders directly
 
 </br></br>
   Key Features:</br>
-    - Receive buffet orders in real-time</br>
-    - Organized and efficient order tracking</br>
-    - Integrates with CEO for streamlined business management</br>
-    - Lightweight and easy to use</br>
+    * Receive buffet orders in real-time</br>
+    * Organized and efficient order tracking</br>
+    * Integrates with CEO for streamlined business management</br>
+    * Lightweight and easy to use</br>
   
   [🔗 Play Store Link](https://play.google.com/store/apps/details?id=sa.amazing.buffetservice)</br>
   [🔗 App Store Link](https://apps.apple.com/us/app/buffet-services/id6479214057)
