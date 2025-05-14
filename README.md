@@ -33,11 +33,12 @@ Here are some of the skills and technologies I work with:
  <h3>CEO - الرئيس</h3>
 CEO is your all-in-one app for executive control. Manage reports, workflows, and internal communication with ease. It also supports employee well-being, tracks attendance, monitors participation, and aligns teams with your company’s vision. View organizational structures, manage tasks, departments, and HR — all in one place.
 
+</br></br>
 Key Features:</br>
-  * Executive-level oversight and performance tracking</br>
-  * Employee well-being monitoring and attendance recording</br>
-  * Task and department management</br>
-  * Organizational structure and HR tools</br>
+  - Executive-level oversight and performance tracking</br>
+  - Employee well-being monitoring and attendance recording</br>
+  - Task and department management</br>
+  - Organizational structure and HR tools</br>
  
   [🔗 Play Store Link](https://play.google.com/store/apps/details?id=sa.amazing.amazingceo) </br>
   [🔗 App Store Link](https://apps.apple.com/eg/app/ceo-%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3/id6475808778)
@@ -46,11 +47,12 @@ Key Features:</br>
 <h3>CEO Buffet</h3>
 CEO Buffet is a dedicated app built to receive and manage buffet orders directly from our main platform. It integrates seamlessly with CEO – Smart Executive Management to enhance overall business operations, making the order handling process faster and more efficient for catering teams and buffet service providers.
 
+</br></br>
   Key Features:</br>
-    * Receive buffet orders in real-time</br>
-    * Organized and efficient order tracking</br>
-    * Integrates with CEO for streamlined business management</br>
-    * Lightweight and easy to use</br>
+    - Receive buffet orders in real-time</br>
+    - Organized and efficient order tracking</br>
+    - Integrates with CEO for streamlined business management</br>
+    - Lightweight and easy to use</br>
   
   [🔗 Play Store Link](https://play.google.com/store/apps/details?id=sa.amazing.buffetservice)</br>
   [🔗 App Store Link](https://apps.apple.com/us/app/buffet-services/id6479214057)
@@ -65,10 +67,10 @@ Mudawi is a simple yet powerful medical reminder app designed to help you stay o
 
 <h3>Sportsmanship</h3>
 Sportsmanship is a sports prediction app focused on the Saudi football league, offering fans the chance to predict the outcomes of major matches involving top clubs like Al-Ittihad, Al-Nasr, Al-Hilal, Al-Shabab, and Al-Ahly. Earn points for accurate predictions and compete with fellow fans.
-
+</br></br>
   Key Features:</br>
-   * Focus on major Saudi league matches</br>
-   * Participate in rounds by submitting predictions before each match</br>
+   - Focus on major Saudi league matches</br>
+   - Participate in rounds by submitting predictions before each match</br>
   
   [🔗 Play Store Link](https://play.google.com/store/apps/details?id=com.sportsmanshipapp.sportsmanship)</br>
   [🔗 App Store Link](https://apps.apple.com/sa/app/%D8%B1%D9%88%D8%AD-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9/id6474154577)
