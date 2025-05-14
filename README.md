@@ -33,7 +33,7 @@ Here are some of the skills and technologies I work with:
 - **CEO**  
   The application takes care of employee well-being, recording attendance, participation, achieving the company's vision, reviewing the organizational structure, and everything related to managing departments, tasks, and human resources.
   
-  [🔗 Play Store Link](https://play.google.com/store/apps/details?id=sa.amazing.amazingceo)
+  [🔗 Play Store Link](https://play.google.com/store/apps/details?id=sa.amazing.amazingceo) 
   [🔗 App Store Link](https://apps.apple.com/eg/app/ceo-%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3/id6475808778)
 
 - **Sak**  
