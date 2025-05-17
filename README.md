@@ -91,24 +91,31 @@ Sportsmanship is a sports prediction app focused on the Saudi football league, o
 
 
 
-## Languages and Tools
+## 🛠️ Tech Stack & Tools
 
-<p align="left"> 
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a>
-  <a href="https://dart.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="java" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
+### 💻 Languages
+<p align="center">
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?style=plastic&logo=python&logoColor=white" />
+  <img alt="C/C++" src="https://img.shields.io/badge/C/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white" />
+</p>
+
+### 🧩 Frameworks & Libraries
+<p align="center">
+    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=flutter&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=plastic&logo=firebase&logoColor=white" />
+  <img alt="Bloc" src="https://img.shields.io/badge/Bloc-Cubit-%23F9A03C?style=plastic&logo=bloc&logoColor=white" />
+  <img alt="Provider" src="https://img.shields.io/badge/Provider-State--Management-%234CAF50.svg?style=plastic" />
+  <img alt="Hive" src="https://img.shields.io/badge/Hive-Offline%20Storage-%23FF6F00?style=plastic" />
+</p>
+
+### 🧰 Tools & IDEs
+<p align="center">
+  <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=plastic&logo=android-studio&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white" />
+</p>
+
 
 <!--  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
