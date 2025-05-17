@@ -1,4 +1,3 @@
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5BC7F8&width=435&lines=Hey%2C+I'm+Muhammad+Essam+Sayed;Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
 
 ## About Me
