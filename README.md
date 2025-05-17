@@ -114,6 +114,8 @@ Sportsmanship is a sports prediction app focused on the Saudi football league, o
 <p align="center">
   <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=plastic&logo=android-studio&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-red?style=plastic&logo=postman&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-black?style=plastic&logo=figma&logoColor=white" />
 </p>
 
 
