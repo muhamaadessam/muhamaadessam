@@ -58,7 +58,8 @@ CEO Buffet is a dedicated app built to receive and manage buffet orders directly
   </br></br>
 
 <h3>Mudawi</h3>
-Mudawi is a simple yet powerful medical reminder app designed to help you stay on top of your health. Easily schedule your doctor appointments and medication times, and log your blood pressure readings for future reference. With a clean interface and complete privacy, Mudawi is your personal assistant for better health.</br>
+Mudawi is a simple yet powerful medical reminder app designed to help you stay on top of your health. Easily schedule your doctor appointments and medication times, and log your blood pressure readings for future reference. With a clean interface and complete privacy, Mudawi is your personal assistant for better health.
+</br></br>
   
   [🔗 Play Store Link](https://play.google.com/store/apps/details?id=com.mudawiapp.mudawi)</br>
   [🔗 App Store Link](https://apps.apple.com/sa/app/mudawi/id6478219789)
