@@ -52,7 +52,7 @@ CEO Buffet is a dedicated app built to receive and manage buffet orders directly
    - Organized and efficient order tracking</br>
    - Integrates with CEO for streamlined business management</br>
    - Lightweight and easy to use</br>
-  
+
   [🔗 Play Store Link](https://play.google.com/store/apps/details?id=sa.amazing.buffetservice)</br>
   [🔗 App Store Link](https://apps.apple.com/us/app/buffet-services/id6479214057)
   </br></br>
@@ -103,7 +103,7 @@ Sportsmanship is a sports prediction app focused on the Saudi football league, o
 
 ### 🧩 Frameworks & Libraries
 <p align="left">
-    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=flutter&logoColor=white" />
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=flutter&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=plastic&logo=firebase&logoColor=white" />
   <img alt="Bloc" src="https://img.shields.io/badge/Bloc-Cubit-%23F9A03C?style=plastic&logo=bloc&logoColor=white" />
   <img alt="Provider" src="https://img.shields.io/badge/Provider-State--Management-%234CAF50.svg?style=plastic" />
