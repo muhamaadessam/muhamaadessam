@@ -94,7 +94,7 @@ Sportsmanship is a sports prediction app focused on the Saudi football league, o
 ## 🛠️ Tech Stack & Tools
 
 ### 💻 Languages
-<p align="center">
+<p align="left">
   <img alt="Dart" src="https://img.shields.io/badge/Dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?style=plastic&logo=python&logoColor=white" />
@@ -102,7 +102,7 @@ Sportsmanship is a sports prediction app focused on the Saudi football league, o
 </p>
 
 ### 🧩 Frameworks & Libraries
-<p align="center">
+<p align="left">
     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=flutter&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=plastic&logo=firebase&logoColor=white" />
   <img alt="Bloc" src="https://img.shields.io/badge/Bloc-Cubit-%23F9A03C?style=plastic&logo=bloc&logoColor=white" />
@@ -111,7 +111,7 @@ Sportsmanship is a sports prediction app focused on the Saudi football league, o
 </p>
 
 ### 🧰 Tools & IDEs
-<p align="center">
+<p align="left">
   <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=plastic&logo=android-studio&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/Postman-red?style=plastic&logo=postman&logoColor=white" />
