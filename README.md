@@ -1,6 +1,10 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:7C3AED&height=190&section=header&text=Muhammad%20Essam&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Flutter%20Developer&descAlignY=58&descSize=18" alt="Muhammad Essam header" />
 
+  <a href="https://muhamaadessam.github.io/">
+    <img width="220" src="https://muhamaadessam.github.io/logos/essamLogoWithText.png" alt="Muhammad Essam logo" />
+  </a>
+
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+fast%2C+scalable+mobile+experiences;Flutter+%E2%80%A2+Dart+%E2%80%A2+Clean+Architecture;Turning+ideas+into+products+people+enjoy" alt="Typing animation" />
   </a>
@@ -73,6 +77,13 @@ Selected production apps I worked on that are live across app stores.
 | Sportsmanship | [Google Play](https://play.google.com/store/apps/details?id=com.sportsmanshipapp.sportsmanship) · [App Store](https://apps.apple.com/sa/app/%D8%B1%D9%88%D8%AD-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9/id6474154577) | Saudi football prediction, scoring, and leaderboards |
 | CEO - الرئيس | [Google Play](https://play.google.com/store/apps/details?id=sa.amazing.amazingceo) | Executive operations, reports, workflows, HR, and communication |
 | CEO Buffet | [App Store](https://apps.apple.com/us/app/buffet-services/id6479214057) | Catering management, order tracking, and live staff updates |
+
+## Contact me
+
+<div align="center">
+  <a href="mailto:muhammad159e@gmail.com"><img src="https://img.shields.io/badge/Email-muhammad159e%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Muhammad" /></a>
+  <a href="https://wa.me/201017022791"><img src="https://img.shields.io/badge/WhatsApp-%2B201017022791-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Muhammad" /></a>
+</div>
 
 ## GitHub at a glance
 
