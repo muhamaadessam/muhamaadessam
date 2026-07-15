@@ -60,6 +60,18 @@ I'm a Software Engineer from Egypt focused on crafting polished, reliable cross-
 | [Movie Explorer](https://github.com/muhamaadessam/movie_explorer) | Discovering and exploring movie content | Flutter, Dart, REST APIs |
 | [Social App](https://github.com/muhamaadessam/Social-App-with-Firebase) | Social application backed by cloud services | Flutter, Firebase |
 
+## Shipped apps
+
+Selected production apps I worked on that are live across app stores.
+
+| App | Store links | Focus |
+| --- | --- | --- |
+| TMKN | [Google Play](https://play.google.com/store/apps/details?id=com.vroad.gsikw) · [App Store](https://apps.apple.com/kw/app/tmkn-%D8%AA%D9%85%D9%83%D9%86/id1590997791) · [Microsoft Store](https://apps.microsoft.com/detail/9pdkms7p4x4w?hl=en-us&gl=US&ocid=pdpshare) | Education platform for online lessons, video content, and notes |
+| CEO | [Google Play](https://play.google.com/store/apps/details?id=sa.amazing.amazingceo) · [App Store](https://apps.apple.com/app/ceo/id6448097976) | Executive operations, reports, workflows, HR, and communication |
+| CEO Buffet | [App Store](https://apps.apple.com/app/ceo-buffet/id6450341655) | Internal buffet ordering and real-time order handling |
+| Mudawi | [Google Play](https://play.google.com/store/apps/details?id=com.mudawiapp.mudawi) · [App Store](https://apps.apple.com/sa/app/mudawi/id6478219789) | Medical reminders, appointments, and health tracking |
+| Sportsmanship | [Google Play](https://play.google.com/store/apps/details?id=com.sportsmanshipapp.sportsmanship) · [App Store](https://apps.apple.com/sa/app/%D8%B1%D9%88%D8%AD-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9/id6474154577) | Saudi football prediction, scoring, and leaderboards |
+
 ## GitHub at a glance
 
 <div align="center">
