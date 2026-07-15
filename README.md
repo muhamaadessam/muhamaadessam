@@ -63,16 +63,8 @@ I'm a Software Engineer from Egypt focused on crafting polished, reliable cross-
 ## GitHub at a glance
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=muhamaadessam&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=muhamaadessam&show_icons=true&hide_border=true&rank_icon=github&theme=default" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=muhamaadessam&show_icons=true&hide_border=true&rank_icon=github&theme=default" alt="Muhammad's GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamaadessam&layout=compact&hide_border=true&theme=tokyonight" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamaadessam&layout=compact&hide_border=true&theme=default" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamaadessam&layout=compact&hide_border=true&theme=default" alt="Muhammad's top languages" />
-  </picture>
+  <img height="170" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Muhammad's GitHub stats" />
+  <img height="170" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Muhammad's top languages" />
 </div>
 
 ## Contributions — the snack zone 🐍
