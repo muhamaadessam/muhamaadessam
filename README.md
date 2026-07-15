@@ -74,6 +74,13 @@ Selected production apps I worked on that are live across app stores.
 | CEO - الرئيس | [Google Play](https://play.google.com/store/apps/details?id=sa.amazing.amazingceo) | Executive operations, reports, workflows, HR, and communication |
 | CEO Buffet | [App Store](https://apps.apple.com/us/app/buffet-services/id6479214057) | Catering management, order tracking, and live staff updates |
 
+## Contact me
+
+<div align="center">
+  <a href="mailto:muhammad159e@gmail.com"><img src="https://img.shields.io/badge/Email-muhammad159e%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Muhammad" /></a>
+  <a href="https://wa.me/201017022791"><img src="https://img.shields.io/badge/WhatsApp-%2B201017022791-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Muhammad" /></a>
+</div>
+
 ## GitHub at a glance
 
 <div align="center">
