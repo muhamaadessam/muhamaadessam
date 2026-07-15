@@ -1,6 +1,10 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:7C3AED&height=190&section=header&text=Muhammad%20Essam&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Flutter%20Developer&descAlignY=58&descSize=18" alt="Muhammad Essam header" />
 
+  <a href="https://muhamaadessam.github.io/">
+    <img width="220" src="https://muhamaadessam.github.io/logos/essamLogoWithText.png" alt="Muhammad Essam logo" />
+  </a>
+
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+fast%2C+scalable+mobile+experiences;Flutter+%E2%80%A2+Dart+%E2%80%A2+Clean+Architecture;Turning+ideas+into+products+people+enjoy" alt="Typing animation" />
   </a>
