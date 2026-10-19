@@ -1,8 +1,8 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:7C3AED&height=190&section=header&text=Muhammad%20Essam&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Flutter%20Developer&descAlignY=58&descSize=18" alt="Muhammad Essam header" />
 
-  <a href="https://muhamaadessam.github.io/">
-    <img width="220" src="https://muhamaadessam.github.io/logos/essamLogoWithText.png" alt="Muhammad Essam logo" />
+  <a href="https://muhammadessam.me/">
+    <img width="220" src="https://muhammadessam.me/logos/essamLogoWithText.webp" alt="Muhammad Essam logo" />
   </a>
 
   <a href="https://git.io/typing-svg">
@@ -10,7 +10,7 @@
   </a>
 
   <p>
-    <a href="https://muhamaadessam.github.io/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://muhammadessam.me/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
     <a href="https://www.linkedin.com/in/muhammadessam159/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://github.com/muhamaadessam"><img src="https://img.shields.io/github/followers/muhamaadessam?label=Follow&style=for-the-badge&logo=github" alt="GitHub followers" /></a>
   </p>
@@ -58,12 +58,21 @@ I'm a Software Engineer from Egypt focused on crafting polished, reliable cross-
 
 | Project | What it showcases | Stack |
 | --- | --- | --- |
-| [Teryaq - ترياق](https://muhamaadessam.github.io/projects/1) | Local-first medicine reminders, visits, health measurements, reports, and encrypted backup | Flutter, Dart, Cubit/BLoC, SQLite |
-| [TMKN](https://muhamaadessam.github.io/projects/2) | Smart education platform for live sessions, recorded videos, notes, and teacher-student communication | Flutter, Dart, Cubit/BLoC, Clean Architecture |
-| [Abo Eltalabat](https://muhamaadessam.github.io/projects/3) | Delivery app for meals, groceries, utility payments, offers, cart flow, and order tracking | Flutter, Dart, Riverpod, Firebase |
-| [Sportsmanship](https://muhamaadessam.github.io/projects/4) | Saudi football prediction app with points, leaderboards, and real-time match updates | Flutter, Dart, Cubit/BLoC, Firebase |
-| [CEO - الرئيس](https://muhamaadessam.github.io/projects/5) | Enterprise executive hub for reports, workflows, HR, productivity, and live synchronization | Flutter, Dart, Cubit/BLoC, Pusher |
-| [CEO Buffet](https://muhamaadessam.github.io/projects/6) | Premium catering and buffet management with order tracking and live staff updates | Flutter, Dart, Cubit/BLoC, Firebase |
+| [Teryaq - ترياق](https://muhammadessam.me/projects/1) | Local-first medicine reminders, visits, health measurements, reports, and encrypted backup | Flutter, Dart, Cubit/BLoC, SQLite |
+| [TMKN](https://muhammadessam.me/projects/2) | Smart education platform for live sessions, recorded videos, notes, and teacher-student communication | Flutter, Dart, Cubit/BLoC, Clean Architecture |
+| [Abo Eltalabat](https://muhammadessam.me/projects/3) | Delivery app for meals, groceries, utility payments, offers, cart flow, and order tracking | Flutter, Dart, Riverpod, Firebase |
+| [Sportsmanship](https://muhammadessam.me/projects/4) | Saudi football prediction app with points, leaderboards, and real-time match updates | Flutter, Dart, Cubit/BLoC, Firebase |
+| [CEO - الرئيس](https://muhammadessam.me/projects/5) | Enterprise executive hub for reports, workflows, HR, productivity, and live synchronization | Flutter, Dart, Cubit/BLoC, Pusher |
+| [CEO Buffet](https://apps.apple.com/us/app/buffet-services/id6479214057) | Premium catering and buffet management with order tracking and live staff updates | Flutter, Dart, Cubit/BLoC, Firebase |
+
+## Code you can read
+
+Most of my production apps are client work with private source. These public repos show how I structure code:
+
+| Repository | What it shows | Stack |
+| --- | --- | --- |
+| [muhammad_essam_portfolio](https://github.com/muhamaadessam/muhammad_essam_portfolio) | Flutter Web app with per-feature Clean Architecture, `Either<Failure, T>` use cases, `get_it` DI, and `go_router` | Flutter, Cubit, Firestore |
+| [muhamaadessam.github.io](https://github.com/muhamaadessam/muhamaadessam.github.io) | Source of [muhammadessam.me](https://muhammadessam.me/): static export, generated project pages, admin dashboard, CI deploy | Next.js, TypeScript, Firebase |
 
 ## Shipped apps
 
